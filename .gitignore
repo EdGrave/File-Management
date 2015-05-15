@@ -1,0 +1,10 @@
+*.user
+*.idea
+*/packages/*
+*/obj/*
+*/bin/*
+*.cache
+*.ncrunchsolution
+*_NCrunch*/StoredText*
+*.log
+*/.log
